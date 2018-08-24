@@ -1,0 +1,22 @@
+body {
+    background-color: #fff238;
+    font-family: cursive;;
+}
+
+div {
+    width: 600px;
+    margin: auto;
+}
+
+p {
+    text-emphasis: italics;
+}
+
+blockquote {
+  margin: auto;
+  margin-top: 5px;
+  width: 600px;
+  text-align: center;
+  border: 1px solid white; 
+  background-color: #f5e610cc;
+}
