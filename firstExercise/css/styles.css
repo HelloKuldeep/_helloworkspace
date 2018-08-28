@@ -126,10 +126,6 @@ header li:hover {
 	display: none;
 }
 
-header h2{
-	font-family: 'Quicksand', sans-serif;
-}
-
 header nav{
 	display: flex;
 }
@@ -137,7 +133,6 @@ header nav{
 header nav li{
 	margin: 0 15px;
 	font-size: 20px;
-	font-family: 'Quicksand', sans-serif;
 }
 
 header nav li:first-child{
@@ -154,14 +149,9 @@ header nav li:last-child{
 	}
 }
 
-
 @media (max-width: 700px){
 	.toggle {
 		display: flex;
-	}
-	
-	header nav, header h2 {
-		justify-content: space-between;
 	}
 
 	header .dropd {
